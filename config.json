@@ -1,0 +1,187 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "0",
+      "ad_manager_interstitial_unit_id": "0",
+      "ad_manager_native_unit_id": "0",
+      "ad_manager_app_open_unit_id": "0",
+      "fan_banner_unit_id": "0",
+      "fan_interstitial_unit_id": "0",
+      "fan_native_unit_id": "0",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "SolitaireClash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "SolitaireClash",
+      "title": "What is Solitaire Clash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Fwhat%20is%20solitare%20clash.html?alt=media&token=b954f8e4-d5ba-4397-bd9e-7c16b5433d7d",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "SolitaireClash",
+      "title": "How to play Solitaire Clash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Fhow%20to%20play%20solitare.html?alt=media&token=f1dd7d76-5b3d-4f32-9cd3-aa6197e54b8d",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "SolitaireClash",
+      "title": "How to win Solitaire Clash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Fhow%20to%20win%20solitare.html?alt=media&token=84dc58e8-5657-4b3f-8234-ae36230c8681",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "SolitaireClash",
+      "title": "How to earn money on solitaire",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2FHow%20to%20earn%20money%20on%20solitare.html?alt=media&token=e60fed58-8976-479c-af8d-f57930441d72",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "SolitaireClash",
+      "title": "Strategy on Solitaire Clash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2FStrategy%20on%20solitare.html?alt=media&token=0df15979-4848-4634-8247-d11ac2469eb2",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "SolitaireClash",
+      "title": "How to get good card on Solitaire Clash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2FHow%20to%20get%20good%20card%20on%20solitare.html?alt=media&token=e928d419-0473-4992-a724-13f9c8efae55",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "SolitaireClash",
+      "title": "Best move to play Solitaire Clash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2FBest%20move%20to%20play%20solitare.html?alt=media&token=4e55cab5-eb40-4814-92df-edcf27fee082",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "SolitaireClash",
+      "title": "How to win Solitaire Clash easy",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2FHow%20to%20win%20solitare%20easy.html?alt=media&token=8c993fe2-5711-4422-af2b-c1d3065a0a8c",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "SolitaireClash",
+      "title": "Advice to play Solitaire Clash",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2Ficon.png?alt=media&token=3af9f9be-97f2-4b75-84b0-7d6dd06959bc",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/solitaireguia6%2FAdvice%20to%20play%20solitare.html?alt=media&token=ca384ca7-d499-4f6d-af85-2837bed7a8ad",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
